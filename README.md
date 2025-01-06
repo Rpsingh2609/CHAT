@@ -1,6 +1,7 @@
 Chat Application: Full-Stack Project Overview
 
 The Chat Application project is a full-stack application built using React for the front-end and Express for the back-end. The application aims to create a seamless chatting experience for users with functionalities such as user registration, login, and real-time communication. This was a group project executed within 10 days, showcasing the ability to plan, design, and implement a fully functional application in a short time.
+
 Key Features of the Chat Application :-
 
 Login Functionality:
@@ -25,8 +26,11 @@ Switch Chats:
 Setup and Instructions for using the Project :-
 
   This Full-stack project runs on React and Express. Make sure you have Node and MongoDB installed to run the API and React. We used VSCode and MongoDB Compass for this project.
-  Within VSCode, navigate your terminal to the express.js_server folder and run the following two commands: npm install and npm start
-  Navigate your terminal to the react.js_app folder and run the following two commands: npm install and npm start
+  
+  Within VSCode, navigate your terminal to the express.js_server folder and run the following two commands: npm install and npm start.
+  
+  Navigate your terminal to the react.js_app folder and run the following two commands: npm install and npm start.
+  
   Navigate to your web browser and if it has not already displayed, enter in the following URL: http://localhost:3000/chat.
 
 Extensions :-
@@ -34,7 +38,10 @@ Extensions :-
 What we have expanded on this full-stack project:
 
   Add multiple friends
+  
   Multiple conversations
+  
   Unfriend & Delete chats
+  
   Encrypt stored password
 
